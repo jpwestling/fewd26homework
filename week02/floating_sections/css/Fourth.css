@@ -41,3 +41,32 @@ footer{
 	height: 150px;
 	margin: 10px;
 }
+.box {
+	display: block;
+	border: 1px solid #ccc;
+	background: #eee;
+	padding: 20px;
+}
+.navigation {
+	width: 600px;
+	float: right;
+	list-style: none;
+	padding-left: 0;
+}
+.navigation li{
+	float: left;
+	width: 60px;
+	margin-left: 5px;
+}
+.logo {
+	width: 240px;
+	float: left;
+}
+.hdr_l {
+	width: 300px;
+	float: left;
+}
+.hdr_r {
+	width: 900px;
+	float: left;
+}
